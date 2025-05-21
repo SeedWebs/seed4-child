@@ -1,2 +1,3 @@
-# seed4-child
-Child Theme for Seed 4
+# SEED4 CHILD
+
+Classic Child Theme for Seed 4.
